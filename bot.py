@@ -45,9 +45,8 @@ class Bot:
         self.driver.get(f'https://www.instagram.com/{username}/')
 
         try:
-            self.waitForElementXPATH('//button[@class="_acan _acap _acat"]')
-        except:
             followButton = self.waitForElementXPATH('//button[@class="_acan _acap _acas"]')
             followButton.click()
-            time.sleep()
-            
+            time.sleep(3)
+        except:
+            print('USR DNE || Already Followed')
