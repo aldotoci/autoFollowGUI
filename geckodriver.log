@@ -1,0 +1,79 @@
+1662160434707	geckodriver	INFO	Listening on 127.0.0.1:53043
+1662160434771	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileEGiiHt"
+1662160439144	Marionette	INFO	Listening on port 43727
+1662160439259	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 288: NS_ERROR_FAILURE: Should pass a non-null uri
+1662160448495	Marionette	INFO	Stopped listening on port 43727
+1662162496599	geckodriver	INFO	Listening on 127.0.0.1:47255
+1662162497698	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileS0wPqX"
+1662162502218	Marionette	INFO	Listening on port 43339
+1662162502317	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1662162616346	geckodriver	INFO	Listening on 127.0.0.1:56765
+1662162617490	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile6RiAo1"
+1662162622174	Marionette	INFO	Listening on port 37787
+1662162622214	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1662162684115	geckodriver	INFO	Listening on 127.0.0.1:46353
+1662162684167	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileXMr2ha"
+1662162688201	Marionette	INFO	Listening on port 40265
+1662162688279	Marionette	WARN	TLS certificate errors will be ignored for this session
+1662162699744	Marionette	INFO	Stopped listening on port 40265
+1662162819898	geckodriver	INFO	Listening on 127.0.0.1:52311
+1662162819956	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileUXkM98"
+1662162823925	Marionette	INFO	Listening on port 44353
+1662162823973	Marionette	WARN	TLS certificate errors will be ignored for this session
+1662162840435	Marionette	INFO	Stopped listening on port 44353
+1662163172950	geckodriver	INFO	Listening on 127.0.0.1:46773
+1662163173014	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile5zw7F2"
+1662163176861	Marionette	INFO	Listening on port 37159
+1662163176943	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iQ3H4/y8/l/en_US/obeLZ1txBhvFd6Se2IRSttfvrATdwuhG26iS4_odxWjzwxDSr8aDClwWD7wv_2pnrPfrhd0ZFk_4mIpA0NFLVNL6iVoeCTtjaEFhTY8NRSnBjiw0EDPw7iWnu7La2d7WkaDU0PqRg_cZ_T7da45_Jc2yg4ENZpdW0JbdZI9DCRNaKxRLLoyaiDxeZ9ogqMgm7NmRR46CfGHEv7OIG9mjpt2MO06icqvLfCMxV3ES9v5vp4k6K1uYtCbdYPLGQh4AiGDfIs66l8oBZVHslxLx66pOUKbILqOerLfzPcpZonr5boTdJiNBG2gOQaE0OOv.js?_nc_x=Ij3Wp8lg5Kz, line 1275: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iQ3H4/y8/l/en_US/obeLZ1txBhvFd6Se2IRSttfvrATdwuhG26iS4_odxWjzwxDSr8aDClwWD7wv_2pnrPfrhd0ZFk_4mIpA0NFLVNL6iVoeCTtjaEFhTY8NRSnBjiw0EDPw7iWnu7La2d7WkaDU0PqRg_cZ_T7da45_Jc2yg4ENZpdW0JbdZI9DCRNaKxRLLoyaiDxeZ9ogqMgm7NmRR46CfGHEv7OIG9mjpt2MO06icqvLfCMxV3ES9v5vp4k6K1uYtCbdYPLGQh4AiGDfIs66l8oBZVHslxLx66pOUKbILqOerLfzPcpZonr5boTdJiNBG2gOQaE0OOv.js?_nc_x=Ij3Wp8lg5Kz, line 1275: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iQ3H4/y8/l/en_US/obeLZ1txBhvFd6Se2IRSttfvrATdwuhG26iS4_odxWjzwxDSr8aDClwWD7wv_2pnrPfrhd0ZFk_4mIpA0NFLVNL6iVoeCTtjaEFhTY8NRSnBjiw0EDPw7iWnu7La2d7WkaDU0PqRg_cZ_T7da45_Jc2yg4ENZpdW0JbdZI9DCRNaKxRLLoyaiDxeZ9ogqMgm7NmRR46CfGHEv7OIG9mjpt2MO06icqvLfCMxV3ES9v5vp4k6K1uYtCbdYPLGQh4AiGDfIs66l8oBZVHslxLx66pOUKbILqOerLfzPcpZonr5boTdJiNBG2gOQaE0OOv.js?_nc_x=Ij3Wp8lg5Kz, line 1275: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iQ3H4/y8/l/en_US/obeLZ1txBhvFd6Se2IRSttfvrATdwuhG26iS4_odxWjzwxDSr8aDClwWD7wv_2pnrPfrhd0ZFk_4mIpA0NFLVNL6iVoeCTtjaEFhTY8NRSnBjiw0EDPw7iWnu7La2d7WkaDU0PqRg_cZ_T7da45_Jc2yg4ENZpdW0JbdZI9DCRNaKxRLLoyaiDxeZ9ogqMgm7NmRR46CfGHEv7OIG9mjpt2MO06icqvLfCMxV3ES9v5vp4k6K1uYtCbdYPLGQh4AiGDfIs66l8oBZVHslxLx66pOUKbILqOerLfzPcpZonr5boTdJiNBG2gOQaE0OOv.js?_nc_x=Ij3Wp8lg5Kz, line 2275: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iQ3H4/y8/l/en_US/obeLZ1txBhvFd6Se2IRSttfvrATdwuhG26iS4_odxWjzwxDSr8aDClwWD7wv_2pnrPfrhd0ZFk_4mIpA0NFLVNL6iVoeCTtjaEFhTY8NRSnBjiw0EDPw7iWnu7La2d7WkaDU0PqRg_cZ_T7da45_Jc2yg4ENZpdW0JbdZI9DCRNaKxRLLoyaiDxeZ9ogqMgm7NmRR46CfGHEv7OIG9mjpt2MO06icqvLfCMxV3ES9v5vp4k6K1uYtCbdYPLGQh4AiGDfIs66l8oBZVHslxLx66pOUKbILqOerLfzPcpZonr5boTdJiNBG2gOQaE0OOv.js?_nc_x=Ij3Wp8lg5Kz, line 2275: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iQ3H4/y8/l/en_US/obeLZ1txBhvFd6Se2IRSttfvrATdwuhG26iS4_odxWjzwxDSr8aDClwWD7wv_2pnrPfrhd0ZFk_4mIpA0NFLVNL6iVoeCTtjaEFhTY8NRSnBjiw0EDPw7iWnu7La2d7WkaDU0PqRg_cZ_T7da45_Jc2yg4ENZpdW0JbdZI9DCRNaKxRLLoyaiDxeZ9ogqMgm7NmRR46CfGHEv7OIG9mjpt2MO06icqvLfCMxV3ES9v5vp4k6K1uYtCbdYPLGQh4AiGDfIs66l8oBZVHslxLx66pOUKbILqOerLfzPcpZonr5boTdJiNBG2gOQaE0OOv.js?_nc_x=Ij3Wp8lg5Kz, line 2275: unreachable code after return statement
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1662163228594	geckodriver	INFO	Listening on 127.0.0.1:47685
+1662163229698	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileacU3Qa"
+1662163233668	Marionette	INFO	Listening on port 37573
+1662163233717	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3if1i4/yD/l/en_US/1qrMfbQmKwx.js?_nc_x=Ij3Wp8lg5Kz, line 839: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3if1i4/yD/l/en_US/1qrMfbQmKwx.js?_nc_x=Ij3Wp8lg5Kz, line 839: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3if1i4/yD/l/en_US/1qrMfbQmKwx.js?_nc_x=Ij3Wp8lg5Kz, line 1175: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3if1i4/yD/l/en_US/1qrMfbQmKwx.js?_nc_x=Ij3Wp8lg5Kz, line 1175: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3if1i4/yD/l/en_US/1qrMfbQmKwx.js?_nc_x=Ij3Wp8lg5Kz, line 1175: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3if1i4/yD/l/en_US/1qrMfbQmKwx.js?_nc_x=Ij3Wp8lg5Kz, line 839: unreachable code after return statement
+1662163271624	Marionette	INFO	Stopped listening on port 37573
+1662163389256	geckodriver	INFO	Listening on 127.0.0.1:59077
+1662163389313	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileMYZUvt"
+1662163393519	Marionette	INFO	Listening on port 35103
+1662163393540	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3if1i4/yD/l/en_US/1qrMfbQmKwx.js?_nc_x=Ij3Wp8lg5Kz, line 839: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3if1i4/yD/l/en_US/1qrMfbQmKwx.js?_nc_x=Ij3Wp8lg5Kz, line 839: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3if1i4/yD/l/en_US/1qrMfbQmKwx.js?_nc_x=Ij3Wp8lg5Kz, line 1175: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3if1i4/yD/l/en_US/1qrMfbQmKwx.js?_nc_x=Ij3Wp8lg5Kz, line 1175: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3if1i4/yD/l/en_US/1qrMfbQmKwx.js?_nc_x=Ij3Wp8lg5Kz, line 1175: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3if1i4/yD/l/en_US/1qrMfbQmKwx.js?_nc_x=Ij3Wp8lg5Kz, line 839: unreachable code after return statement
+1662163418952	Marionette	INFO	Stopped listening on port 35103
+1662164346255	geckodriver	INFO	Listening on 127.0.0.1:54423
+1662164347422	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilee0oRrG"
+1662164352113	Marionette	INFO	Listening on port 44341
+1662164352141	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3if1i4/yD/l/en_US/1qrMfbQmKwx.js?_nc_x=Ij3Wp8lg5Kz, line 839: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3if1i4/yD/l/en_US/1qrMfbQmKwx.js?_nc_x=Ij3Wp8lg5Kz, line 839: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3if1i4/yD/l/en_US/1qrMfbQmKwx.js?_nc_x=Ij3Wp8lg5Kz, line 1175: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3if1i4/yD/l/en_US/1qrMfbQmKwx.js?_nc_x=Ij3Wp8lg5Kz, line 1175: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3if1i4/yD/l/en_US/1qrMfbQmKwx.js?_nc_x=Ij3Wp8lg5Kz, line 1175: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3if1i4/yD/l/en_US/1qrMfbQmKwx.js?_nc_x=Ij3Wp8lg5Kz, line 839: unreachable code after return statement
+1662164403958	Marionette	INFO	Stopped listening on port 44341
