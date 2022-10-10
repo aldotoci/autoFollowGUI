@@ -48,5 +48,7 @@ class Bot:
             followButton = self.waitForElementXPATH('//button[@class="_acan _acap _acas"]')
             followButton.click()
             time.sleep(3)
+            return True
         except:
             print('USR DNE || Already Followed')
+            return False

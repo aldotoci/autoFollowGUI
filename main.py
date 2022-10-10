@@ -1,5 +1,3 @@
-from glob import glob
-from sqlalchemy import false, true
 from data.convertData import usernamesToFollow
 import datetime
 from initilazeBots import initialise
@@ -12,18 +10,11 @@ bots = initialise()
 
 waiting = True
 def waitForTheRightTime():
-    global waiting
-    if(waiting):
-        print(waiting)
-        waiting = False
     currHour = datetime.datetime.now().hour+4 
-    print(currHour)
-    if(currHour <= 7 and currHour >= 21):
+    while(currHour <= 7 or currHour >= 21):
         waiting = True
+        time.sleep(1)
         return
-    else:
-        time.sleep(0.5)
-        waitForTheRightTime()
 
 def sleepUntilNextPosts(timeTosleep, start_time):
     if(timeTosleep > time.time() - start_time):
@@ -34,16 +25,17 @@ def sleepUntilNextPosts(timeTosleep, start_time):
 def main():
     start_time = time.time()
     currentAcc = 0
-    numOfTargetsDone = 0
+    numOfTargetsDone = len(bots)
     for index, username in enumerate(usernamesToFollow):
-        # waitForTheRightTime()
-        bots[currentAcc].follow(username)
-        if(currentAcc == len(bots)-1):
-            currentAcc = 0
-        else:
-            currentAcc +=1
-        
-        numOfTargetsDone += 1
+        waitForTheRightTime()
+        followed = bots[currentAcc].follow(username)
+        if(followed):
+            if(currentAcc == len(bots)-1):
+                currentAcc = 0
+            else:
+                currentAcc +=1
+            numOfTargetsDone += 1
+
         if((numOfTargetsDone//len(bots))%5 == 0): #Post per user
             timeTosleep = (60*60-int(time.time() - start_time))
             start_time = time.time()

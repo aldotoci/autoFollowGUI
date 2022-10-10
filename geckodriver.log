@@ -606,3 +606,37 @@ JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3if1i4/yD/l/en_US/
 JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3if1i4/yD/l/en_US/1qrMfbQmKwx.js?_nc_x=Ij3Wp8lg5Kz, line 839: unreachable code after return statement
 Exiting due to channel error.
 Exiting due to channel error.
+1665433111618	geckodriver	INFO	Listening on 127.0.0.1:48973
+1665433112798	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileWH16oZ"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1665433114122	Marionette	INFO	Marionette enabled
+1665433114128	Marionette	INFO	Listening on port 44765
+Read port: 44765
+1665433114372	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileWH16oZ/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i05Z4/yU/l/en_US/NS-dVdztvIN.js?_nc_x=Ij3Wp8lg5Kz, line 1800: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i05Z4/yU/l/en_US/NS-dVdztvIN.js?_nc_x=Ij3Wp8lg5Kz, line 1800: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i05Z4/yU/l/en_US/NS-dVdztvIN.js?_nc_x=Ij3Wp8lg5Kz, line 1800: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yH/l/en_US/m8xXck7PUUt.js?_nc_x=Ij3Wp8lg5Kz, line 38: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i05Z4/yU/l/en_US/NS-dVdztvIN.js?_nc_x=Ij3Wp8lg5Kz, line 1800: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i05Z4/yU/l/en_US/NS-dVdztvIN.js?_nc_x=Ij3Wp8lg5Kz, line 1800: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i05Z4/yU/l/en_US/NS-dVdztvIN.js?_nc_x=Ij3Wp8lg5Kz, line 1800: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yH/l/en_US/m8xXck7PUUt.js?_nc_x=Ij3Wp8lg5Kz, line 38: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i05Z4/yU/l/en_US/NS-dVdztvIN.js?_nc_x=Ij3Wp8lg5Kz, line 1800: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i05Z4/yU/l/en_US/NS-dVdztvIN.js?_nc_x=Ij3Wp8lg5Kz, line 1800: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i05Z4/yU/l/en_US/NS-dVdztvIN.js?_nc_x=Ij3Wp8lg5Kz, line 1800: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yH/l/en_US/m8xXck7PUUt.js?_nc_x=Ij3Wp8lg5Kz, line 38: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
